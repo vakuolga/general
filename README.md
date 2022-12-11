@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @vakuolga
 - 👀 I’m a Javascript | React Developer
+- ‍💻 My Leetcode: https://leetcode.com/vakuolga/
 - 📫 How to reach me: sinenkova-work@yandex.ru
