@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vakuolga
+- 👀 I’m a Javascript | React Developer
+- 📫 How to reach me: sinenkova-work@yandex.ru
